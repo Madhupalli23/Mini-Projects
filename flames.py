@@ -1,4 +1,4 @@
-import stre
+import streamlit as st
 st.title("WELCOME TO FLAMES GAME")
 s1=st.text_input("Enter the first name:").strip()
 s2=st.text_input("Enter the second name:").strip()
